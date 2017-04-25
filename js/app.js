@@ -10537,5 +10537,5 @@ $('.main-heading').on('sticky-end', function () {
   });
 });
 
-var foo = bar;
+
 //# sourceMappingURL=app.js.map
